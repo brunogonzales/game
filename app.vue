@@ -1,5 +1,5 @@
 <template>
   <div>
-    <NuxtWelcome />
+    <h1>¿Quiénes van a jugar hoy?</h1>
   </div>
 </template>
